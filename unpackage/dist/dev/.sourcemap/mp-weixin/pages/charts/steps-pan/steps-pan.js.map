@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,8G;AACAA,UAAU,CAACC,iBAAD,CAAV,C","file":"pages/charts/steps-pan/steps-pan.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/charts/steps-pan/steps-pan.vue'\ncreatePage(Page)"],"sourceRoot":""}

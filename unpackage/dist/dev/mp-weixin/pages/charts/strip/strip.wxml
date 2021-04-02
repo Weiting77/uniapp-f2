@@ -1,0 +1,1 @@
+<view class="container"><ff-canvas class="vue-ref" vue-id="183164b4-1" id="strip-id" canvas-id="strip" opts="{{opts}}" data-ref="f2" bind:__l="__l"></ff-canvas><ff-canvas class="vue-ref" vue-id="183164b4-2" id="strip-id-s" canvas-id="strips" opts="{{opts}}" data-ref="f22" bind:__l="__l"></ff-canvas></view>

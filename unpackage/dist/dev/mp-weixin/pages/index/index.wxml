@@ -1,0 +1,1 @@
+<view class="page"><block wx:for="{{charts}}" wx:for-item="chart" wx:for-index="__i0__" wx:key="name"><view class="list-item"><image src="{{'/static/'+chart.name+'.png'}}" mode="aspectFit" data-event-opts="{{[['tap',[['jump',['$0'],[[['charts','name',chart.name]]]]]]]}}" bindtap="__e"></image>{{''+chart.value+''}}</view></block></view>
